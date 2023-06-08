@@ -1,5 +1,5 @@
 classes = 1
 train  = ../plate_detection/cfg/my_train.txt
 valid  = ../plate_detection/cfg/my_valid.txt
-names = ../plate_detection/cfg/my_obj.names
+names = ../plate_detection/cfg/my.names
 backup = ../plate_detection/weights/
