@@ -601,7 +601,6 @@
 ../plate_detection/train_photo/train (601).jpg
 ../plate_detection/train_photo/train (602).jpg
 ../plate_detection/train_photo/train (603).jpg
-../plate_detection/train_photo/train (604).jpg
 ../plate_detection/train_photo/train (605).jpg
 ../plate_detection/train_photo/train (606).jpg
 ../plate_detection/train_photo/train (607).jpg
